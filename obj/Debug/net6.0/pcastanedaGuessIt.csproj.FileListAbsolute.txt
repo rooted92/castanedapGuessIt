@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\bin\Debug\net6.0\pcastanedaGuessIt.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\bin\Debug\net6.0\pcastanedaGuessIt.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\bin\Debug\net6.0\pcastanedaGuessIt.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\bin\Debug\net6.0\pcastanedaGuessIt.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\bin\Debug\net6.0\pcastanedaGuessIt.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\refint\pcastanedaGuessIt.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\pcastanedaGuessIt.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaGuessIt\obj\Debug\net6.0\ref\pcastanedaGuessIt.dll
