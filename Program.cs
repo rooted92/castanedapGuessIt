@@ -292,9 +292,13 @@ void Custom()
             Console.WriteLine("Enter a maximum value greater than the minimum value:");
             Console.WriteLine($"Current min value: {min}");
             checkMax = Int32.TryParse(Console.ReadLine(), out max);
-            if (max < min)
+            if (max > min)
             {
                 break;
+            }
+            else if(max < min)
+            {
+                Console.WriteLine("Please make sure maximum number is greater than minimum number");
             }
         }
         randomNum = random.Next(min, max);
